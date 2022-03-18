@@ -2,7 +2,7 @@
 Simple bash script to download sound effects and music from videvo.net without the need to create a account.
 
 # Usage
-simply execute the script with "./videvo-downlaoder.sh", followed by the link you want to download
+simply execute the script with "./videvo-downloader.sh", followed by the link you want to download
 and the desired filename.
 
 example:
