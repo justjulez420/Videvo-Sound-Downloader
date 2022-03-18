@@ -9,5 +9,5 @@ example:
 ./videvo-downloader.sh https://videvo.net/link-to-file/ filename
 
 Dependencies:
-Curl
+Curl,
 Grep
